@@ -4,7 +4,7 @@ Here in GitHub
 Importing the Component
 - In Power Apps, Open your respective ` Canvas App `.
 - Select the ` Tree View ` from the left sidebar if its not already expanded.
-- Select the ` Components ` tab in he Tree View.
+- Select the ` Components ` tab in the Tree View.
 - Click on the ` Ellipsis ('...') ` icon to the right of '+ New component'.
 - Select ` Import components `.
 - Select ` Upload file `, navigate to and Open the downloaded MSAPP file.
