@@ -1,5 +1,5 @@
 Here in GitHub
-- Download [custom-notification-bar-component-v1.msapp](https://github.com/ohthreesixtyfive/power-apps/blob/main/samples/custom-notification-bar-component/custom-notification-bar-component-v1.msapp) to your computer.
+- Download [custom-notification-bar-component-v1.msapp](https://github.com/ohthreesixtyfive/power-apps/blob/main/samples/custom-notification-bar-component/custom-notification-bar-component-v1.msapp).
 
 Importing the Component
 - In Power Apps, Open your respective ` Canvas App `.
